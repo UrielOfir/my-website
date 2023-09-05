@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/UrielOfir/my-website/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/UrielOfir/my-website/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/UrielOfir/my-website/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/UrielOfir/my-website/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
